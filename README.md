@@ -1,7 +1,6 @@
 # rotate-yolov5-opencv-onnxrun
 分别使用OpenCV、ONNXRuntime部署yolov5旋转目标检测，包含C++和Python两个版本的程序
 
-
 1. 使用OpenCV部署yolov5旋转目标检测，包含C++和Python两个版本的程序
 
 
